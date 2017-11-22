@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="hwpush_ability_value" translatable="false">successRateAnalytics</string>
+</resources>
